@@ -1,4 +1,11 @@
 .The [shortcut icon] from furnity - Modern Office Furniture (https://www.furnify.co.uk/en/open-reception-desk)
 Website to Remove white background from image: "https://remove-white-background.imageonline.co/"
 
-("Diabolical Mind" is the nom de plume of independent developer "Daniel Fernandez Chavez")
+("Diabolical Mind" is the nom de plume[/pen name] of independent developer "Daniel Fernandez Chavez")
+
+1picture= https://xboxsquad.fr/riddled-corpses-ex/
+2picture= https://www.giantbomb.com/xenon-valkyrie/3030-58180/
+3picture= https://www.cowcatgames.com/presskit/sheetdemon.php?p=demon
+Website to overlay images: "https://overlay.imageonline.co/"
+
+Thx to "https://stackoverflow.com/questions/29036231/how-can-i-have-a-position-fixed-behaviour-for-a-flexbox-sized-element" for the nav belong to the header
