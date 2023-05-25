@@ -4,7 +4,7 @@
 :root{
     /* --"name"= variable + this name */
     --purple: rgb(235, 5, 240);
-    --red: rgb(120, 0, 0);
+    --red: rgb(100, 0, 0);
 }
 
 body {
@@ -12,6 +12,7 @@ body {
     margin-top: 90.5px;
     font-family: 'Pangolin', cursive;
     color: rgb(255, 255, 255);
+    z-index: 0;
 }
 
 header {
@@ -31,6 +32,7 @@ header > nav {
     justify-content: space-between;
     /* align-item about the box. "flex-start" or "baseline"=at the top and "flex-end"=at the bottom */
     align-items: center;
+    z-index: 1;
     background-color: rgb(0, 0, 0);
     position: fixed;
     top: 0px;
@@ -83,6 +85,56 @@ header > nav > .right > button:hover {
 .presentation > .product-presentation {
     width: 100%;
     flex-shrink: 3;
+}
+
+.presentation > .product-presentation > h3 {
+    margin: 0px;
+    /* vw="% taken in width instead in px" at the bottom */
+    font-size: 4.2vw;
+}
+
+.presentation > .product-presentation > button {
+    font-family: 'Pangolin', cursive;
+    color: var(--red);
+    margin-top: 20px;
+    padding: 15px 20px;
+    font-size: 15px;
+    border: none;
+    /* outline="When effect as soon as click on the button" at the bottom */
+    outline: none;
+    cursor: zoom-in;
+    transition: filter 2s;
+}
+
+.first > .product-presentation > button:hover {
+    /* Info=It happens that the "border" change the page when ":hover" is activated. To fix-it, just copy/past the same border code in his ":hover" */
+    background: rgb(190, 0, 0);
+    filter: brightness(85%);
+}
+
+.first > .product-presentation > .popular-games {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.first > .product-presentation > .popular-games > img {
+    margin: 0px 15px 25px 0px;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    transition: all 1s ease;
+}
+
+.first > .product-presentation > .popular-games > img:hover {
+    transform: scale(1.2);
+    filter: brightness(130%)
+}
+
+.presentation > .main_image > img {
+    width: 100%;
 }
 
 /* ----------------------Responsive side---------------------- */

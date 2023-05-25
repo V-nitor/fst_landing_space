@@ -9,3 +9,5 @@ Website to Remove white background from image: "https://remove-white-background.
 Website to overlay images: "https://overlay.imageonline.co/"
 
 Thx to "https://stackoverflow.com/questions/29036231/how-can-i-have-a-position-fixed-behaviour-for-a-flexbox-sized-element" for the nav belong to the header
+
+Thx to "https://travis.media/how-to-make-an-item-grow-on-hover-with-css/" to Make An Item Grow On Hover with CSS
