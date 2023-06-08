@@ -127,6 +127,7 @@ header > nav > .right > button:hover {
     height: 200px;
     width: 200px;
     border-radius: 20px;
+    cursor: pointer;
     transition: all 1s ease;
 }
 
@@ -143,7 +144,7 @@ header > nav > .right > button:hover {
 
 .second {
     margin: 0;
-    padding-bottom: 40px;
+    padding-bottom: 100px;
     background: linear-gradient(rgb(190, 0, 0), rgb(235, 5, 240), rgb(0, 0, 0)) ;
 }
 
@@ -168,6 +169,7 @@ header > nav > .right > button:hover {
     height: 200px;
     width: 200px;
     border-radius: 20px;
+    cursor: pointer;
     transition: all 1s ease;
 }
 
@@ -203,7 +205,46 @@ header > nav > .right > button:hover {
 }
 
 .presentation > .symbol_image > img:hover {
-    filter: brightness(130%)
+    filter: brightness(130%);
+}
+
+/* ----------------------The footer---------------------- */
+
+footer {    
+    margin: 0px;
+    padding: 50px 15px;
+    background: url(./in_content/pexels-pixabay-270815.jpg) center/cover;
+    filter: brightness(50%);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+footer > .column {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 30% 50% 70% 40%;
+    padding: 10px;
+}
+
+footer > .column > h4 {
+    color: var(--red);
+    filter: brightness(500%)
+}
+
+footer > .column > p {
+    color: var(--purple);
+    cursor: pointer;
+    transition: color 0.3s linear;
+}
+
+footer > .column > p:hover {
+    color: rgb(250, 150, 0);
+}
+
+footer > .column > img {
+    height: 50px;
+    width: 50px;
 }
 
 /* ----------------------Responsive side---------------------- */
@@ -231,6 +272,10 @@ header > nav > .right > button:hover {
         margin-top: 15%;
         /* 2rem="Takes twice its original size" at the bottom */
         font-size: 2rem;
+    }
+
+    .second > .product-presentation > .other-games > .mini-games {
+        padding-left: 6%;
     }
 
     .presentation > .product-presentation > button {

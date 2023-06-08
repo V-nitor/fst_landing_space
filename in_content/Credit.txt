@@ -8,15 +8,18 @@ Website to Remove white background from image: "https://remove-white-background.
 3picture= https://www.cowcatgames.com/presskit/sheetdemon.php?p=demon
 Website to overlay images: "https://overlay.imageonline.co/"
 
-4picture= https://www.androidgame365.com/puzzle/3796-fruit-jump-.html (modified by myself thx to "Paint")
-5picture= https://www.androidout.com/item/android-apps/422326/caldeira-o-diabo/
-6picture= https://twitter.com/DiabolicalGame/status/512999684344778752?t=63ixgeXwL5XNbXn0XTVAWA&s=19 (modified by myself thx to "Paint")
-7picture= https://twitter.com/DiabolicalGame/status/511615436182802434?t=ht5WMTfSAGX93nhRLpW7Zg&s=19
-8picture= https://twitter.com/DiabolicalGame (modified by myself thx to "Paint")
-9picture= https://twitter.com/DiabolicalGame/status/351417263435419648?t=Ujyd7-yNSDBPda6AS90Zcw&s=19 (modified by myself thx to "Paint")
-10picture= https://twitter.com/DiabolicalGame/status/307224560275697664?t=LjJBiG50cQ_dcafdUXkK3g&s=19 (modified by myself thx to "Paint")
-11picture= https://twitter.com/DiabolicalGame/status/447042731030769664?t=v8xUeWPfiB5W7JdphDKjWA&s=19
-12picture= https://twitter.com/DiabolicalGame/status/448265787745107969?t=fejtoE-fRYn01yPkCXjIOw&s=19
+4picture= https://diabolicalmind.itch.io/
+5picture= https://www.androidgame365.com/puzzle/3796-fruit-jump-.html (modified by myself thx to "Paint")
+6picture= https://www.androidout.com/item/android-apps/422326/caldeira-o-diabo/
+7picture= https://twitter.com/DiabolicalGame/status/512999684344778752?t=63ixgeXwL5XNbXn0XTVAWA&s=19 (modified by myself thx to "Paint")
+8picture= https://twitter.com/DiabolicalGame/status/511615436182802434?t=ht5WMTfSAGX93nhRLpW7Zg&s=19
+9picture= https://twitter.com/DiabolicalGame (modified by myself thx to "Paint")
+10picture= https://twitter.com/DiabolicalGame/status/351417263435419648?t=Ujyd7-yNSDBPda6AS90Zcw&s=19 (modified by myself thx to "Paint")
+11picture= https://twitter.com/DiabolicalGame/status/307224560275697664?t=LjJBiG50cQ_dcafdUXkK3g&s=19 (modified by myself thx to "Paint")
+12picture= https://twitter.com/DiabolicalGame/status/447042731030769664?t=v8xUeWPfiB5W7JdphDKjWA&s=19
+13picture= https://twitter.com/DiabolicalGame/status/448265787745107969?t=fejtoE-fRYn01yPkCXjIOw&s=19
+14picture= https://www.pexels.com/fr-fr/photo/arbre-en-feu-270815/
+15picture= https://linktr.ee/cowcatgames
 
 Thx to "https://stackoverflow.com/questions/29036231/how-can-i-have-a-position-fixed-behaviour-for-a-flexbox-sized-element" for the nav belong to the header
 
