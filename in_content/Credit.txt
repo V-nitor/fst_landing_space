@@ -1,3 +1,5 @@
+_Main video to do this exercice: "https://www.youtube.com/watch?v=S5nR9Z5CeOA"
+
 .The [shortcut icon] from furnity - Modern Office Furniture (https://www.furnify.co.uk/en/open-reception-desk)
 Website to Remove white background from image: "https://remove-white-background.imageonline.co/"
 
@@ -25,3 +27,4 @@ Thx to "https://stackoverflow.com/questions/29036231/how-can-i-have-a-position-f
 
 Thx to "https://travis.media/how-to-make-an-item-grow-on-hover-with-css/" to Make An Item Grow On Hover with CSS
 Thx to "https://blog.hubspot.com/website/center-text-in-css" to explain the text-align once again
+Thx to "https://www.youtube.com/watch?v=S0VCa_kdlZk" to help me how to change image on hover with CSS for the 2 "Cowcat Logo"
