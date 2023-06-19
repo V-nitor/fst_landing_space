@@ -123,7 +123,7 @@ header > nav > .right > button:hover {
     justify-content: space-around;
 }
 
-.first > .product-presentation > .popular-games > img {
+.first > .product-presentation > .popular-games > a > img {
     margin: 0px 25px 25px 25px;
     height: 200px;
     width: 200px;
@@ -132,7 +132,7 @@ header > nav > .right > button:hover {
     transition: all 1s ease;
 }
 
-.first > .product-presentation > .popular-games > img:hover {
+.first > .product-presentation > .popular-games > a > img:hover {
     transform: scale(1.2);
     filter: brightness(130%)
 }
@@ -165,7 +165,7 @@ header > nav > .right > button:hover {
     text-align: center;
 }
 
-.second > .product-presentation > .other-games > .mini-games > img {
+.second > .product-presentation > .other-games > .mini-games > a > img {
     margin: 0px 25px 25px 0px;
     height: 200px;
     width: 200px;
@@ -174,7 +174,7 @@ header > nav > .right > button:hover {
     transition: all 1s ease;
 }
 
-.second > .product-presentation > .other-games > .mini-games > img:hover {
+.second > .product-presentation > .other-games > .mini-games > a > img:hover {
     transform: scale(0.8);
     filter: brightness(70%)
 }
@@ -233,13 +233,13 @@ footer > .column > h4 {
     filter: brightness(500%)
 }
 
-footer > .column > p {
+footer > .column > a > p {
     color: var(--purple);
     cursor: pointer;
     transition: color 0.3s linear;
 }
 
-footer > .column > p:hover {
+footer > .column > a > p:hover {
     color: rgb(250, 150, 0);
 }
 

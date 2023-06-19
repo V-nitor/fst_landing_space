@@ -3,8 +3,6 @@ _Main video to do this exercice: "https://www.youtube.com/watch?v=S5nR9Z5CeOA"
 .The [shortcut icon] from furnity - Modern Office Furniture (https://www.furnify.co.uk/en/open-reception-desk)
 Website to Remove white background from image: "https://remove-white-background.imageonline.co/"
 
-("Diabolical Mind" is the nom de plume[/pen name] of independent developer "Daniel Fernandez Chavez")
-
 1picture= https://xboxsquad.fr/riddled-corpses-ex/
 2picture= https://www.giantbomb.com/xenon-valkyrie/3030-58180/
 3picture= https://www.cowcatgames.com/presskit/sheetdemon.php?p=demon
@@ -22,9 +20,11 @@ Website to overlay images: "https://overlay.imageonline.co/"
 13picture= https://twitter.com/DiabolicalGame/status/448265787745107969?t=fejtoE-fRYn01yPkCXjIOw&s=19
 14picture= https://www.pexels.com/fr-fr/photo/arbre-en-feu-270815/
 15picture= https://linktr.ee/cowcatgames
+Background-gif= https://tenor.com/fr/view/space-sparkle-stars-planets-night-gif-17072741
 
 Thx to "https://stackoverflow.com/questions/29036231/how-can-i-have-a-position-fixed-behaviour-for-a-flexbox-sized-element" for the nav belong to the header
 
 Thx to "https://travis.media/how-to-make-an-item-grow-on-hover-with-css/" to Make An Item Grow On Hover with CSS
 Thx to "https://blog.hubspot.com/website/center-text-in-css" to explain the text-align once again
 Thx to "https://www.youtube.com/watch?v=S0VCa_kdlZk" to help me how to change image on hover with CSS for the 2 "Cowcat Logo"
+Thx to "https://www.youtube.com/watch?v=2KnYNbZxn-Y" to show us how to add Gif background images simply

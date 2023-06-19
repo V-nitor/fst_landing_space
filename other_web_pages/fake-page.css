@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Tilt Prism', cursive;
+}
+
+body {
+    background: url(./space-sparkle.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h2 {
+    font-size: 3rem;
+    text-align: center;
+    padding: 20%;
+    color: rgb(225, 225, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}
