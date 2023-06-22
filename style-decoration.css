@@ -5,12 +5,13 @@
     /* --"name"= variable + this name */
     --purple: rgb(235, 5, 240);
     --red: rgb(100, 0, 0);
+    --white: rgb(255, 255, 255);
 }
 
 body {
     margin: 90.5px 0px 0px 0px;
     font-family: 'Pangolin', cursive;
-    color: rgb(255, 255, 255);
+    color: var(--white);
     background-color: rgb(0, 0, 0);
     z-index: 0;
 }
@@ -52,25 +53,28 @@ header > nav > .right {
     align-items: center;
 }
 
-header > nav > .right > p {
+header > nav > .right > a {
+    color: var(--white);
+    text-decoration: underline overline;
     margin: 0px 15px 0px 0px;
     padding: 1px 2px;
     border-radius: 10px;    
     transition: color 2.5s, background 2.5s;
 }
 
-header > nav > .right > button {
+header > nav > .right > form > button {
     padding: 5px 15px;
     border: 3px solid var(--red);
     border-radius: 15px;
     transition: color 2.5s, background 2.5s;
 }
 
-header > nav > .right > p:hover,
-header > nav > .right > button:hover {
-    cursor: pointer;
+header > nav > .right > a:hover,
+header > nav > .right > form > button:hover {
+    cursor: crosshair;
     color: rgb(120, 0, 0);
     background: rgb(235, 5, 240);
+    text-decoration: none;
 }
 
 /* ----------------------The Remainder Section element of header---------------------- */
@@ -93,7 +97,7 @@ header > nav > .right > button:hover {
     font-size: 4.2vw;
 }
 
-.presentation > .product-presentation > button {
+.presentation > .product-presentation > form > button {
     font-family: 'Pangolin', cursive;
     color: var(--red);
     margin-top: 20px;
@@ -144,7 +148,8 @@ header > nav > .right > button:hover {
 /* ----------------------The second section---------------------- */
 
 .second {
-    margin: 0;
+    margin: 0px;
+    padding-top: 5%;
     padding-bottom: 100px;
     background: linear-gradient(rgb(190, 0, 0), rgb(235, 5, 240), rgb(0, 0, 0));
 }
@@ -185,7 +190,7 @@ header > nav > .right > button:hover {
     color: rgb(245, 255, 0);
 }
 
-.second > .product-presentation > button {
+.second > .product-presentation > form > button {
     margin-top: 0px;
     /* inherit="Take the same value of the property from its parent element" at the bottom */
     background: inherit;
@@ -195,7 +200,7 @@ header > nav > .right > button:hover {
     transition: all 0.5s ease-in-out;
 }
 
-.second > .product-presentation > button:hover {
+.second > .product-presentation > form > button:hover {
     color: var(--purple);
     border: 10px solid var(--purple);
 }
@@ -235,7 +240,7 @@ footer > .column > h4 {
 
 footer > .column > a > p {
     color: var(--purple);
-    cursor: pointer;
+    cursor: help;
     transition: color 0.3s linear;
 }
 
@@ -252,6 +257,7 @@ footer > .column > .img-change > img {
     position: absolute;
     height: 100%;
     width: 100%;
+    cursor: progress;
 }
 
 footer > .column > .img-change > #img-front:hover {
@@ -290,11 +296,15 @@ footer > .column > img:hover {
         font-size: 2rem;
     }
 
+    .second {
+        margin: 0px 0px 10rem 0px;
+    }
+
     .second > .product-presentation > .other-games > .mini-games {
         padding-left: 6%;
     }
 
-    .presentation > .product-presentation > button {
+    .presentation > .product-presentation > form > button {
         margin-top: 0px;
     }
 

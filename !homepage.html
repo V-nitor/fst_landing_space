@@ -13,19 +13,23 @@
         <nav>
             <h2>Homepage</h2>
             <div class="right">
-                <p>Games</p>
-                <p>Presentation</p>
-                <p>Contact</p>
-                <button><strong>Grade</strong></button>
+                <a href="#discover">Games</a>
+                <a href="#show">Presentation</a>
+                <a href="#know">Contact</a>
+                <form action="./Grade.html" method="get" target="_blank">
+                    <button><strong>Grade</strong></button>
+                </form>
             </div>
         </nav>
 
         <!-- WARNING= It can have two class in the same place! Like at the bottom (.presentation & .first) -->
-        <section class="presentation first">
+        <section id="show" class="presentation first">
             <div class="product-presentation">
                 <h3>See Diabolical Mind's creation</h3>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolores odio quo laudantium illum corporis iure adipisci vel deserunt ut fugiat ipsam dolor, dignissimos exercitationem temporibus sit. Numquam laudantium minus minima fugit cupiditate itaque illo harum et fuga, distinctio, sint dolor.</p>
-                <button>Find out more</button>
+                <form action="./see-more-games.html" method="get">
+                    <button>Find out more</button>
+                </form>
                 <div class="popular-games">
                     <a href="https://www.cowcatgames.com/presskit/sheetriddled.php?p=riddled" target="_blank"><img src="./in_content/riddled_corpses.jpeg" alt="Riddled Corpses EX"></a>
                     <a href="https://www.cowcatgames.com/presskit/sheet.php?p=xenonvalkyrie" target="_blank"><img src="./in_content/xenon_valkyrie.jpg" alt="Project Xenon Valkyries +"></a>
@@ -38,7 +42,7 @@
         </section>
     </header>
 
-    <section class="presentation second">
+    <section id="discover" class="presentation second">
         <div class="product-presentation">
             <h3>Discover also:</h3>
             <div class="other-games">
@@ -84,14 +88,16 @@
                 </div>
             </div>
             <p>Thanks to watching!</p>
-            <button>See more here?</button>
+            <form action="./see-more-games.html" method="get">
+                <button>See more here?</button>
+            </form>
         </div>
         <div class="symbol_image">
             <img src="./in_content/diabolical_trilogy.jpg" alt="Diabolical Mind's emblems">
         </div>
     </section>
 
-    <footer>
+    <footer id="know">
         <div class="column">
             <h4>Follow the developper on:</h4>
             <a href="https://twitter.com/DiabolicalGame" target="_blank"><p>Twitter</p></a>

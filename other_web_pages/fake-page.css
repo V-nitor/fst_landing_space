@@ -13,9 +13,74 @@ body {
 }
 
 h2 {
-    font-size: 3rem;
+    font-size: 10vh;
     text-align: center;
-    padding: 20%;
+    padding: 47vh 10vw;
     color: rgb(225, 225, 0);
     background-color: rgba(0, 0, 0, 0.4);
+    background-size: 100%;
+}
+
+a {
+    color:rgb(225, 145, 0);
+    text-decoration: none;
+}
+
+img {
+    position: absolute;
+    bottom: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(50%);
+}
+
+/* --------------------------- Responsive --------------------------- */
+
+@media screen and (max-width: 1620px) {
+    body {
+        background-size: cover;
+        background-attachment: fixed;
+        background-position: center;
+    }
+}
+
+@media screen and (max-width: 1585px) {
+    h2 {
+        font-size: 9vh;
+    }
+}
+
+@media screen and (max-width: 1425px) {
+    h2 {
+        font-size: 8vh;
+    }
+}
+
+@media screen and (max-width: 1270px) {
+    h2 {
+        font-size: 7vh;
+    }
+}
+
+@media screen and (max-width: 1110px) {
+    h2 {
+        font-size: 6vh;
+    }
+}
+
+@media screen and (max-width: 950px) {
+    h2 {
+        font-size: 5vh;
+    }
+}
+
+@media screen and (max-width: 795px) {
+    h2 {
+        font-size: 4vh;
+    }
+}
+
+@media screen and (max-width: 755px) {
+    img {
+        width: 90%;
+    }
 }

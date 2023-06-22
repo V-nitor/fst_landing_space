@@ -1,30 +1,113 @@
-_Main video to do this exercice: "https://www.youtube.com/watch?v=S5nR9Z5CeOA"
 
-.The [shortcut icon] from furnity - Modern Office Furniture (https://www.furnify.co.uk/en/open-reception-desk)
-Website to Remove white background from image: "https://remove-white-background.imageonline.co/"
+                             The Main video to do this exercice: "https://www.youtube.com/watch?v=S5nR9Z5CeOA"                             
 
-1picture= https://xboxsquad.fr/riddled-corpses-ex/
-2picture= https://www.giantbomb.com/xenon-valkyrie/3030-58180/
-3picture= https://www.cowcatgames.com/presskit/sheetdemon.php?p=demon
-Website to overlay images: "https://overlay.imageonline.co/"
 
-4picture= https://diabolicalmind.itch.io/
-5picture= https://www.androidgame365.com/puzzle/3796-fruit-jump-.html (modified by myself thx to "Paint")
-6picture= https://www.androidout.com/item/android-apps/422326/caldeira-o-diabo/
-7picture= https://twitter.com/DiabolicalGame/status/512999684344778752?t=63ixgeXwL5XNbXn0XTVAWA&s=19 (modified by myself thx to "Paint")
-8picture= https://twitter.com/DiabolicalGame/status/511615436182802434?t=ht5WMTfSAGX93nhRLpW7Zg&s=19
-9picture= https://twitter.com/DiabolicalGame (modified by myself thx to "Paint")
-10picture= https://twitter.com/DiabolicalGame/status/351417263435419648?t=Ujyd7-yNSDBPda6AS90Zcw&s=19 (modified by myself thx to "Paint")
-11picture= https://twitter.com/DiabolicalGame/status/307224560275697664?t=LjJBiG50cQ_dcafdUXkK3g&s=19 (modified by myself thx to "Paint")
-12picture= https://twitter.com/DiabolicalGame/status/447042731030769664?t=v8xUeWPfiB5W7JdphDKjWA&s=19
-13picture= https://twitter.com/DiabolicalGame/status/448265787745107969?t=fejtoE-fRYn01yPkCXjIOw&s=19
-14picture= https://www.pexels.com/fr-fr/photo/arbre-en-feu-270815/
-15picture= https://linktr.ee/cowcatgames
-Background-gif= https://tenor.com/fr/view/space-sparkle-stars-planets-night-gif-17072741
 
-Thx to "https://stackoverflow.com/questions/29036231/how-can-i-have-a-position-fixed-behaviour-for-a-flexbox-sized-element" for the nav belong to the header
+Website very useful during my learning process:
 
-Thx to "https://travis.media/how-to-make-an-item-grow-on-hover-with-css/" to Make An Item Grow On Hover with CSS
-Thx to "https://blog.hubspot.com/website/center-text-in-css" to explain the text-align once again
-Thx to "https://www.youtube.com/watch?v=S0VCa_kdlZk" to help me how to change image on hover with CSS for the 2 "Cowcat Logo"
-Thx to "https://www.youtube.com/watch?v=2KnYNbZxn-Y" to show us how to add Gif background images simply
+_"https://stackoverflow.com/questions/29036231/how-can-i-have-a-position-fixed-behaviour-for-a-flexbox-sized-element" for the nav belong to the header
+_"https://www.w3docs.com/tools/code-editor/236" for opening a link from a button in a new window
+_"https://travis.media/how-to-make-an-item-grow-on-hover-with-css/" to Make An Item Grow and Shrink On Hover with CSS
+_"https://blog.hubspot.com/website/center-text-in-css" to explain how work the text-align once again
+_"https://www.youtube.com/watch?v=S0VCa_kdlZk" to help me how to change image on hover with CSS for the 2 "Cowcat Logo"
+_"https://www.youtube.com/watch?v=2KnYNbZxn-Y" to show us how to add Gif background images simply
+
+Some free online tool used:
+
+_"https://overlay.imageonline.co/" to overlay images
+_"https://remove-white-background.imageonline.co/" to remove white background from image
+_"https://redketchup.io/gif-resizer" to modified the transformation of the gif
+
+
+Pictures's list from top/left to bottom/right:
+
+0.The [shortcut icon] from furnity - Modern Office Furniture
+(open-reception-desk-03.png) - /!\ Remove white background from image thx to "Imageonline.co"=
+https://www.furnify.co.uk/en/open-reception-desk
+
+1.Riddled Corpses EX
+(riddled_corpses.jpeg)=
+https://xboxsquad.fr/riddled-corpses-ex/
+
+2.Project Xenon Valkyries +
+(xenon_valkyrie.jpg)=
+https://www.giantbomb.com/xenon-valkyrie/3030-58180/
+
+3.Demon's Tiers + _ /!\ Overlay image thx to "Imageonline.co"
+(demonstier_art_plus.jpeg)=
+https://www.cowcatgames.com/presskit/sheetdemon.php?p=demon#artworks
+
+4.The great indie developper 
+(diabolicalmind.png)=
+https://www.cowcatgames.com/presskit/sheetdemon.php?p=demon#logos
+
+5.Evilty
+(evilty.jpeg)=
+https://diabolicalmind.itch.io/
+
+6.Fruit jump! - /!\ modified by myself thx to "Paint"
+(fruit-jump-.jpg)=
+https://www.androidgame365.com/puzzle/3796-fruit-jump-.html
+
+7.Devil's Cauldron
+(devil-s-cauldron.png)=
+https://www.androidout.com/item/android-apps/422326/caldeira-o-diabo/
+
+8.Brutal Shark Attack!! - /!\ modified by myself thx to "Paint"
+(Shark_Attack.jpeg)=
+https://twitter.com/DiabolicalGame/status/512999684344778752?t=63ixgeXwL5XNbXn0XTVAWA&s=19
+
+9.Candy Cut
+(Candy_cut.jpeg)=
+https://twitter.com/DiabolicalGame/status/511615436182802434?t=ht5WMTfSAGX93nhRLpW7Zg&s=19
+
+10.Sweet Block - /!\ modified by myself thx to "Paint"
+(sweet_block.jpg)=
+https://twitter.com/DiabolicalGame
+
+11.Devil's Jewels EX Daimon Jewelry - /!\ modified by myself thx to "Paint"
+(Devil_s_jewel1.jpg)=
+https://twitter.com/DiabolicalGame/status/351417263435419648?t=Ujyd7-yNSDBPda6AS90Zcw&s=19
+
+12.Devil's Jewels 2 Daimon Jewelry - /!\ modified by myself thx to "Paint"
+(Devil_s_jewel2.jpg)=
+https://twitter.com/DiabolicalGame/status/307224560275697664?t=LjJBiG50cQ_dcafdUXkK3g&s=19
+
+13.Starlite_1
+(starlite_gameboy.jpeg)=
+https://twitter.com/DiabolicalGame/status/447042731030769664?t=v8xUeWPfiB5W7JdphDKjWA&s=19
+
+14.Starlite_2
+(starlite_8bit.jpeg)=
+https://twitter.com/DiabolicalGame/status/448265787745107969?t=fejtoE-fRYn01yPkCXjIOw&s=19
+
+15.Diabolical Mind's emblems
+(diabolical_trilogy.jpg)=
+
+16.Background-footer
+(pexels-pixabay-270815.jpg)=
+https://www.pexels.com/fr-fr/photo/arbre-en-feu-270815/
+
+17.Cowcat Logo
+(cowcatgames_normal.png)=
+https://linktr.ee/cowcatgames
+
+18.Cowcat Logo - /!\ modified by myself thx to "Paint" & Remove white background from image thx to "Imageonline.co"
+(cowcatgames_laugh.png)=
+https://linktr.ee/cowcatgames
+
+
+Special pictures from the folder 'other_web_pages':
+
+19.Background-gif
+(space-sparkle.gif)=
+https://tenor.com/fr/view/space-sparkle-stars-planets-night-gif-17072741
+
+20.Gif evaluating - /!\ modified size GIF thx to "RedKetchup.io"
+(vote_stars_5.gif)=
+https://dribbble.com/shots/1968083-Animation-vote-rating-based-on-stars#
+
+
+Thank you so much for your time ♡♡♡
+
+
